@@ -10,6 +10,5 @@ git push
 
 If you work on more than one computer, run git pull before you start working.
 
-7. Optional: automate the daily push
 
 
