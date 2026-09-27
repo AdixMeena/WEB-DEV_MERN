@@ -9,4 +9,5 @@ int main()
    int z = x%y;
     cout<<z<<endl;}
 
+    
 }
