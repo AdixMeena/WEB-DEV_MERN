@@ -1,10 +1,5 @@
+# Ask for a word and print whether it's a palindrome using slicing
 
-list = [1,2,1,3,5,4,1]
+word = input("GIMME A WORD: ")
 
-for item in list:
-    print(item)
-
-
-
-
-    
+print(word[::] == word[::-1])
