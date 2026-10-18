@@ -6,10 +6,3 @@ for _ in range(5):
         i+=1
         char+=1
     print()
-
-
-
-f
-
-
-hjj
