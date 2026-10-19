@@ -10,10 +10,15 @@ for key, value in items.items():
 
 print("----------------------------")
 cart = []
+result = 0
 while True:
     x = input("what YU wanT: ")
     if x == 'q':
         break
-    else:
+    elif x in items:
         cart.append(x)
-    
+
+for i in cart:
+    result += items[i]
+
+print(f"total amount is {result}")
