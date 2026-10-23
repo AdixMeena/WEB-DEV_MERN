@@ -1,10 +1,4 @@
-def add(**kwargs): 
-    total = ""
-    for i in kwargs.values():
-        total +=
+print("hello world and fuku")
 
-
-
-        vv
-
-
+def add(x,y):
+    return x+y
