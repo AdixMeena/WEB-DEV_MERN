@@ -1,6 +1,6 @@
-list = []
-temp = []
-for _ in range(5):
-    list[input("what is: ")]
+x = [1,2]
+y = [3 ,4]
 
-    
+z = x+y
+
+print(z)
