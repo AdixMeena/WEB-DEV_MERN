@@ -21,10 +21,6 @@
 #     # info() is NOT overridden, so Python finds Animal.info automatically
 
 
-
-
-
-
 # d = Dog("Bruno", "Labrador")
 # print(d.speak())   # Bruno makes a sound -> Woof!
 # print(d.info())    # Animal: Bruno
