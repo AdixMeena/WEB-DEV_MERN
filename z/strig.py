@@ -6,10 +6,10 @@
 #     def speak(self):
 #         return f"{self.name} makes a sound"
 
+sfsdc
 
 
-
-#     def info(self):fwf
+#     def info(self):
 #         return f"Animal: {self.name}"
 
 
