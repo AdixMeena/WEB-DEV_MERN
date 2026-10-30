@@ -9,7 +9,7 @@
 
 
 
-#     def info(self):
+#     def info(self):fwf
 #         return f"Animal: {self.name}"
 
 
