@@ -17,9 +17,3 @@ int main(void)
     fclose(ptr);
     return 0;
 }
-
-
-
-
-
-
