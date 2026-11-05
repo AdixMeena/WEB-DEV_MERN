@@ -17,3 +17,18 @@ int main(void)
     fclose(ptr);
     return 0;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+563
