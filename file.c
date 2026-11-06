@@ -15,5 +15,8 @@ int main(void)
     printf("read %zu chars: %s\n", n, buf);
 
     fclose(ptr);.
+
+
+    
     return 0;
 }
