@@ -7,13 +7,38 @@
   <style>
 
     /* Write your CSS Code here */
-    div>p{
+    .flag{
       background-color: brown;
-      width: 500px;
-      height: 100px;
+      width: 900px;
+      height: 600px;
       text-align: center;
     }
-    
+    .flag > div{
+      width: 100%;
+      height: 300px;
+      background-color: blue;
+      position: relative;
+      top:100px;
+      text-align: center;
+    }
+    .flag > div> div{
+      text-align: center;
+      background-color: white;
+      width: 200px;
+      height: 200px;
+      border-radius: 100%;
+      left: 350px;
+      top: 50px;
+      position: relative;
+    }
+    p{
+      margin: 0;
+      font-size: 5rem ;
+    }
+    body>div>p{
+      color:white;
+    }
+
     
   </style>
 </head>
